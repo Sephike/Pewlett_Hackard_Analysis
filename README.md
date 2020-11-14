@@ -8,7 +8,7 @@
 - Narrowed the titles that people will be retiring from this can help to check if downsizing is an option.
 - Created a table telling us the people that are eligible for the mentorship program.
 ## Summary 
-1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? According to the information gathered should be 90,398
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? According to the information gathered should be 90,398.
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? There is not however if we went through and gave certain people a few each day it would help. There are 1,549 potential mentorship employees.
 
 In order to help the company have an idea what the future holds, I made a new retirement titles table showing how many people may retire after the first intial "silver tsunami" This time looking for people born between 1956 to 1960.
