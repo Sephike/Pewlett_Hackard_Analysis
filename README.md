@@ -15,4 +15,5 @@ In order to help the company have an idea what the future holds, I made a new re
 !["Retirement Titles 2"](Resources/Retirement_titles_2.png)
 
 Next I made another mentorship eligibilty table that looks at people that were born between 1962 to 1964 in order to even out the new hires to mentors.
+
 !["Mentorship Eligibilty 2"](Resources/Mentorship_eligibilty_2.png)
